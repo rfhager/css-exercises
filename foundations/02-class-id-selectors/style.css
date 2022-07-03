@@ -1,0 +1,19 @@
+.uneven-numbers {
+    background-color: #eb9583;
+    font-style: Verdana, "DejaVu Sans", sans-serif;
+}
+.third {
+    font-size: 24px;
+}
+#second {
+    color: #000fff;
+    font-size: 36px;
+}
+#fourth {
+    background-color: #a1de76;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+/*a light green background, a font size of 24px, and bold*/

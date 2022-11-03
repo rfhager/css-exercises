@@ -1,0 +1,16 @@
+.btnClickMe, .btnNoClickMe {
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+    
+}
+
+.btnClickMe {
+    background-color:black;
+    color: white;
+    
+}
+
+.btnNoClickMe {
+    background-color: yellow;
+    
+}
